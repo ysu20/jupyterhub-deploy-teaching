@@ -244,3 +244,6 @@ ga_tracking_id: ''
 # Set NewRelic license key (Optional).
 newrelic_license_key: ''
 
+# Specify the base url of the deployed JupyterHub.
+jupyterhub.base_url: '\'
+
